@@ -2,17 +2,17 @@
 
 # Hi there!
 
-My name is João, I'm working as Developer for 5 years and before that as Computer Teacher, the wi-fi router was turned off sometimes when students didn't contribute to the good progress of the class. If you were one of the people innocently impacted by this action, sorry about that! 😄 
+My name is João, I've been working as a Developer for 5 years and before that as Computer Teacher, every now and then the wi-fi router would have been turned off when students didn't contribute to the progress of the class. If you were one of the people innocently impacted by this action, sorry about that! 😄 
 
-Wide experience with Back-end projects (.Net Framework, .Net Core, ASP.net MVC, Microsoft SQL Server) and Front-end projects (HTML5, CSS3, JavaScript) and actually been ~~beating my brains out~~ learning and creating solutions with TypeScript, React.js, React Native and Node.js
+Wide experience with Back-end projects (.Net Framework, .Net Core, ASP.net MVC, Microsoft SQL Server) and Front-end projects (HTML5, CSS3, JavaScript) and been ~~beating my brains out~~ learning and creating solutions with TypeScript, React.js, React Native and Node.js
 
-Degree in Computer System Analysis reached in 2017 from 'Faculdade Impacta' and My purpose is contribute with high impact projects and actively participate on creation or improvement of innovative products.
+After having obtained a Degree in Computer System Analysis December 2017 from 'Faculdade Impacta' and my purpose is to contribute to high impact projects and actively participate in the creation or improvement of innovative products.
 
-I completed courses offered by RocketSeat, Caelum and School of Art, Game and Animation.
+I have completed courses offered by RocketSeat, Caelum and School of Art, Game and Animation.
 
+You can check out my latest work by clicking here.
 
-
-
+For jobs, collaborations or simply keeping in touch.
 
 
 
