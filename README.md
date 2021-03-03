@@ -6,7 +6,7 @@ My name is João, I'm working as Developer for 5 years and before that as Comput
 
 Wide experience with Back-end projects (.Net Framework, .Net Core, ASP.net MVC, Microsoft SQL Server) and Front-end projects (HTML5, CSS3, JavaScript) and actually been ~~beating my brains out~~ learning and creating solutions with TypeScript, React.js, React Native and Node.js
 
-Degree in Computer System Analysis reached in 2017 and My purpose is contribute with high impact projects and actively participate on creation or improvement of innovative products.
+Degree in Computer System Analysis reached in 2017 from 'Faculdade Impacta' and My purpose is contribute with high impact projects and actively participate on creation or improvement of innovative products.
 
 I completed courses offered by RocketSeat, Caelum and School of Art, Game and Animation.
 
