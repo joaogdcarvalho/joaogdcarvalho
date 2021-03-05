@@ -4,11 +4,11 @@
 
 My name is João, I've been working as a Developer for 5 years and before that as Computer Teacher, every now and then the wi-fi router would have been turned off when students didn't contribute to the progress of the class. If you were one of the people innocently impacted by this action, sorry about that! 😄 
 
-Wide experience with Back-end projects (.Net Framework, .Net Core, ASP.net MVC, Microsoft SQL Server) and Front-end projects (HTML5, CSS3, JavaScript) and been ~~beating my brains out~~ learning and creating solutions with TypeScript, React.js, React Native and Node.js
+Wide experience with Back-end projects (.Net Framework, .Net Core, ASP.net MVC, Microsoft SQL Server) and Front-end projects (HTML5, CSS3, JavaScript) and been ~~beating my brains out~~ learning and creating solutions with [TypeScript](https://www.typescriptlang.org), [React.js](https://reactjs.org), [React Native](https://reactnative.dev) and [Node.js](https://nodejs.org)
 
 After having obtained a Degree in Computer System Analysis December 2017 from 'Faculdade Impacta' and my purpose is to contribute to high impact projects and actively participate in the creation or improvement of innovative products.
 
-I have completed courses offered by RocketSeat, Caelum and School of Art, Game and Animation.
+I have completed courses offered by [RocketSeat], [Caelum] and [Saga] - School of Art, Game and Animation.
 
 You can check out my latest work by clicking here.
 
@@ -21,10 +21,9 @@ For jobs, collaborations or simply keeping in touch.
 
 
 
+[RocketSeat]: <https://github.com/Rocketseat>
+[Caelum]: <https://github.com/caelum>
+[Saga]: <https://saga.art.br/cursos/>
 
-
-
-
-
-   [en]: <https://github.com/joaogdcarvalho/joaogdcarvalho/blob/main/README.md>
-   [pt-br]: <https://github.com/joaogdcarvalho/joaogdcarvalho/blob/main/README.pt-BR.md>
+[en]: <https://github.com/joaogdcarvalho/joaogdcarvalho/blob/main/README.md>
+[pt-br]: <https://github.com/joaogdcarvalho/joaogdcarvalho/blob/main/README.pt-BR.md>
