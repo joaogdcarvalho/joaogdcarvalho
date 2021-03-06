@@ -10,7 +10,7 @@ After having obtained a Degree in Computer System Analysis December 2017 from 'F
 
 I have completed courses offered by [RocketSeat], [Caelum] and [Saga] - School of Art, Game and Animation.
 
-You can check out my latest work by clicking here.
+You can check out my latest work by clicking [here](https://github.com/joaogdcarvalho/nps-api).
 
 For jobs, collaborations or simply keeping in touch.
 
