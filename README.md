@@ -14,16 +14,17 @@ You can check out my latest work by clicking [here](https://github.com/joaogdcar
 
 For jobs, collaborations or simply keeping in touch.
 
-
-
-
-
-
-
+[en]: <https://github.com/joaogdcarvalho/joaogdcarvalho/blob/main/README.md>
+[pt-br]: <https://github.com/joaogdcarvalho/joaogdcarvalho/blob/main/README.pt-BR.md>
 
 [RocketSeat]: <https://github.com/Rocketseat>
 [Caelum]: <https://github.com/caelum>
-[Saga]: <https://saga.art.br/cursos/>
+[Saga]: <https://saga.art.br/cursos>
 
-[en]: <https://github.com/joaogdcarvalho/joaogdcarvalho/blob/main/README.md>
-[pt-br]: <https://github.com/joaogdcarvalho/joaogdcarvalho/blob/main/README.pt-BR.md>
+[site]: <>
+[linkedin]: <>
+[twitter]: <>
+[instagram]: <>
+[discord]: <>
+[telegram]: <>
+[aboutme]: <>
