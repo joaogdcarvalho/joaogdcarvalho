@@ -8,7 +8,7 @@ Wide experience with Back-end projects (.Net Framework, .Net Core, ASP.net MVC, 
 
 After having obtained a Degree in Computer System Analysis at "Faculdade Impacta" in 2017 and my purpose is to contribute to high impact projects and actively participate in the creation or improvement of innovative products.
 
-I have completed courses offered by [RocketSeat], [Caelum] and [Saga] - School of Art, Game and Animation.
+I have completed courses offered by [RocketSeat], [Caelum] and [Saga].
 
 You can check out my latest work by clicking [here](https://github.com/joaogdcarvalho/nps-api).
 

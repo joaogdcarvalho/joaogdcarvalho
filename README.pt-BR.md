@@ -8,7 +8,7 @@ Possuo experiência com projetos Back-end (.Net Framework, .Net Core, ASP.net MV
 
 Sou formado em Análise e Desenvolvimento de Sistemas pela "Faculdade Impacta" em 2017 e tenho como objetivo contribuir com projetos de grande impacto e participar ativamente na criação e/ou melhoria de produtos inovadores.
 
-Já concluí cursos oferecidos pela [RocketSeat], [Caelum] e [Saga] - School of Art, Game and Animation.
+Já concluí cursos oferecidos pela [RocketSeat], [Caelum] e [Saga].
 
 Você pode conferir meu projeto mais recente [aqui](https://github.com/joaogdcarvalho/nps-api).
 
