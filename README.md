@@ -14,6 +14,28 @@ You can check out my latest work by clicking [here](https://github.com/joaogdcar
 
 For jobs, collaborations or simply keeping in touch.
 
+<img align="left" src="https://github-readme-stats.vercel.app/api
+?username=joaogdcarvalho
+&custom_title=GitHub%20Stats
+&hide_title=false
+&hide_rank=false
+&hide=issues
+&border_radius=20
+&count_private=true
+&show_icons=true
+&theme=chartreuse-dark
+&include_all_commits=true
+&line_height=25" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/
+?username=joaogdcarvalho
+&custom_title=Most%20Used%20Languages
+&hide_title=false
+&border_radius=20
+&layout=compact
+&show_icons=true
+&theme=chartreuse-dark" />
+
 [en]: <https://github.com/joaogdcarvalho/joaogdcarvalho/blob/main/README.md>
 [pt-br]: <https://github.com/joaogdcarvalho/joaogdcarvalho/blob/main/README.pt-BR.md>
 
