@@ -20,7 +20,7 @@ Para oportunidades, colaborações ou simplesmente manter contato:
       align="center" 
       height="180"
       src="https://github-readme-stats.vercel.app/api?username=joaogdcarvalho&custom_title=Dados%20GitHub&hide_title=false&hide_rank=true&hide=issues&border_radius=20&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true&line_height=25"
-      alt="João - GitHub Stats" 
+      alt="João - Dados GitHub" 
     />
   </a>
   <a href="https://github.com/joaogdcarvalho">
@@ -28,7 +28,7 @@ Para oportunidades, colaborações ou simplesmente manter contato:
       align="center" 
       height="180"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogdcarvalho&custom_title=Linguagens%20Mais%20Usadas&hide_title=false&border_radius=20&layout=compact&show_icons=true&theme=chartreuse-dark"
-      alt="João - Top Langs" 
+      alt="João - Top Linguagens" 
     />
   </a>
 </p>
