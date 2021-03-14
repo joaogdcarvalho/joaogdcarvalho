@@ -14,6 +14,25 @@ Você pode conferir meu projeto mais recente [aqui](https://github.com/joaogdcar
 
 Para oportunidades, colaborações ou simplesmente manter contato:
 
+<p align="center">
+  <a href="https://github.com/joaogdcarvalho">
+    <img 
+      align="center" 
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=joaogdcarvalho&custom_title=Dados%20GitHub&hide_title=false&hide_rank=true&hide=issues&border_radius=20&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true&line_height=25"
+      alt="João - GitHub Stats" 
+    />
+  </a>
+  <a href="https://github.com/joaogdcarvalho">
+    <img 
+      align="center" 
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogdcarvalho&custom_title=Linguagens%20Mais%20Usadas&hide_title=false&border_radius=20&layout=compact&show_icons=true&theme=chartreuse-dark"
+      alt="João - Top Langs" 
+    />
+  </a>
+</p>
+
 [en]: <https://github.com/joaogdcarvalho/joaogdcarvalho/blob/main/README.md>
 [pt-br]: <https://github.com/joaogdcarvalho/joaogdcarvalho/blob/main/README.pt-BR.md>
 
