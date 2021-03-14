@@ -14,9 +14,24 @@ You can check out my latest work by clicking [here](https://github.com/joaogdcar
 
 For jobs, collaborations or simply keeping in touch.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaogdcarvalho&custom_title=GitHub%20Stats&hide_title=false&hide_rank=false&hide=issues&border_radius=20&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true&line_height=25)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogdcarvalho&custom_title=Most%20Used%20Languages&hide_title=false&border_radius=20&layout=compact&show_icons=true&theme=chartreuse-dark)
+<p align="center">
+  <a href="https://github.com/joaogdcarvalho">
+    <img 
+      align="center" 
+      height="180"
+      src="https://github-readme-stats.vercel.app/api?username=joaogdcarvalho&custom_title=GitHub%20Stats&hide_title=false&hide_rank=false&hide=issues&border_radius=20&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true&line_height=25"
+      alt="João - GitHub Stats" 
+    />
+  </a>
+  <a href="https://github.com/joaogdcarvalho">
+    <img 
+      align="center" 
+      height="180"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogdcarvalho&custom_title=Most%20Used%20Languages&hide_title=false&border_radius=20&layout=compact&show_icons=true&theme=chartreuse-dark"
+      alt="João - Top Langs" 
+    />
+  </a>
+</p>
 
 [en]: <https://github.com/joaogdcarvalho/joaogdcarvalho/blob/main/README.md>
 [pt-br]: <https://github.com/joaogdcarvalho/joaogdcarvalho/blob/main/README.pt-BR.md>
