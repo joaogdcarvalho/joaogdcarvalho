@@ -19,7 +19,7 @@ For jobs, collaborations or simply keeping in touch.
     <img 
       align="center" 
       height="180"
-      src="https://github-readme-stats.vercel.app/api?username=joaogdcarvalho&custom_title=GitHub%20Stats&hide_title=false&hide_rank=false&hide=issues&border_radius=20&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true&line_height=25"
+      src="https://github-readme-stats.vercel.app/api?username=joaogdcarvalho&custom_title=GitHub%20Stats&hide_title=false&hide_rank=true&hide=issues&border_radius=20&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true&line_height=25"
       alt="João - GitHub Stats" 
     />
   </a>
