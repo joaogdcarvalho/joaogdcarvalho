@@ -4,7 +4,7 @@
 
 <p>Meu nome é João e atuo como Desenvolvedor há 5 anos, antes disso já fui Instrutor de Informática e confesso que já desliguei o roteador algumas vezes quando a turma não contribua com o bom andamento da aula, peço desculpas caso você tenha sido uma das pessoas inocentemente impactadas por essa ação 😄</p>
 
-<p>Possuo experiência com projetos Back-end (**.NET Framework**, **.NET Core**, **ASP.NET MVC**, **Microsoft SQL Server**) e Front-end (**HTML5**, **CSS3**, **JavaScript**) e atualmente estou ~~quebrando a cabeça~~ aprendendo e criando soluções com **TypeScript**, **React.js**, **React Native** e **Node.js**</p>
+<p>Possuo experiência com projetos Back-end (<strong>.NET Framework, .NET Core, ASP.NET MVC, Microsoft SQL Server</strong>) e Front-end (<strong>HTML5, CSS3, JavaScript</strong>) e atualmente estou ~~quebrando a cabeça~~ aprendendo e criando soluções com <strong>TypeScript, React.js, React Native</strong> e <strong>Node.js</strong></p>
 
 <p>Sou formado em Análise e Desenvolvimento de Sistemas pela "Faculdade Impacta" em 2017 e tenho como objetivo contribuir com projetos de grande impacto e participar ativamente na criação e/ou melhoria de produtos inovadores.</p>
 
