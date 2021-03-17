@@ -2,17 +2,17 @@
 
 # Hi there!
 
-<p>My name is João, I've been working as a Developer for 5 years and before that as Computer Teacher, every now and then the wi-fi router would have been turned off when students didn't contribute to the progress of the class. If you were one of the people innocently impacted by this action, sorry about that! 😄</p>
+My name is João, I've been working as a Developer for 5 years and before that as Computer Teacher, every now and then the wi-fi router would have been turned off when students didn't contribute to the progress of the class. If you were one of the people innocently impacted by this action, sorry about that! 😄
 
-<p>Wide experience with Back-end projects (<strong>.NET Framework, .NET Core, ASP.NET MVC, Microsoft SQL Server</strong>) and Front-end projects (<strong>HTML5, CSS3, JavaScript</strong>) and been ~~beating my brains out~~ learning and creating solutions with <strong>TypeScript, React.js, React Native</strong> and <strong>Node.js</strong></p>
+Wide experience with Back-end projects (<strong>.NET Framework, .NET Core, ASP.NET MVC, Microsoft SQL Server</strong>) and Front-end projects (<strong>HTML5, CSS3, JavaScript</strong>) and been ~~beating my brains out~~ learning and creating solutions with <strong>TypeScript, React.js, React Native</strong> and <strong>Node.js</strong>
 
-<p>After having obtained a Degree in Computer System Analysis at "Faculdade Impacta" in 2017 and my purpose is to contribute to high impact projects and actively participate in the creation or improvement of innovative products.</p>
+After having obtained a Degree in Computer System Analysis at "Faculdade Impacta" in 2017 and my purpose is to contribute to high impact projects and actively participate in the creation or improvement of innovative products.
 
-<p>I have completed courses offered by [RocketSeat], [Caelum] and [Saga].</p>
+I have completed courses offered by [RocketSeat], [Caelum] and [Saga].
 
-<p>You can check out my latest work by clicking [here](https://github.com/joaogdcarvalho/nps-api).</p>
+You can check out my latest work by clicking [here](https://github.com/joaogdcarvalho/nps-api).
 
-<p>For jobs, collaborations or simply keeping in touch.</p>
+For jobs, collaborations or simply keeping in touch.
 
 <p align="center">
   <a href="https://github.com/joaogdcarvalho">
