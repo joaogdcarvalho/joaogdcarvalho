@@ -12,8 +12,6 @@ I have completed courses offered by [RocketSeat], [Caelum] and [Saga].
 
 You can check out my latest work by clicking [here](https://github.com/joaogdcarvalho/nps-api).
 
-For jobs, collaborations or simply keeping in touch.
-
 <p align="center">
   <a href="https://github.com/joaogdcarvalho">
     <img 
@@ -32,6 +30,8 @@ For jobs, collaborations or simply keeping in touch.
     />
   </a>
 </p>
+
+For jobs, collaborations or simply keeping in touch:
 
 [en]: <https://github.com/joaogdcarvalho/joaogdcarvalho/blob/main/README.md>
 [pt-br]: <https://github.com/joaogdcarvalho/joaogdcarvalho/blob/main/README.pt-BR.md>
