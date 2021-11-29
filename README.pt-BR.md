@@ -32,6 +32,10 @@ Você pode conferir meu projeto mais recente [aqui](https://github.com/joaogdcar
 </p>
 
 Para oportunidades, colaborações ou simplesmente manter contato:
+<p>
+<a href="https://www.linkedin.com/in/joaogdcarvalho">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 [en]: <https://github.com/joaogdcarvalho/joaogdcarvalho/blob/main/README.md>
 [pt-br]: <https://github.com/joaogdcarvalho/joaogdcarvalho/blob/main/README.pt-BR.md>
@@ -47,3 +51,4 @@ Para oportunidades, colaborações ou simplesmente manter contato:
 [discord]: <>
 [telegram]: <>
 [aboutme]: <>
+
