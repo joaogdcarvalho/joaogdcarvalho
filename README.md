@@ -44,6 +44,10 @@ For jobs, collaborations or simply keeping in touch:
 <a href="https://gitlab.com/joaogdcarvalho">
   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 </a>
+  
+<a href="https://linktr.ee/joaogdcarvalho">
+  <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
+</a>
 
 [en]: <https://github.com/joaogdcarvalho/joaogdcarvalho/blob/main/README.md>
 [pt-br]: <https://github.com/joaogdcarvalho/joaogdcarvalho/blob/main/README.pt-BR.md>
