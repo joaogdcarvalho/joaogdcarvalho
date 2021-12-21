@@ -48,6 +48,5 @@ For jobs, collaborations or simply keeping in touch:
 
 [site]: <>
 [instagram]: <>
-[discord]: <>
 [telegram]: <>
 [aboutme]: <>
