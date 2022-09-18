@@ -8,7 +8,7 @@ Wide experience with Back-end projects (<strong>.NET Framework, .NET Core, ASP.N
 
 After having obtained a Degree in Computer System Analysis at "Faculdade Impacta" in 2017 and my purpose is to contribute to high impact projects and actively participate in the creation or improvement of innovative products.
 
-I have completed courses offered by [RocketSeat], [Caelum] and [Saga].
+I have completed courses offered by RocketSeat, Caelum and Saga.
 
 You can check out my latest work by clicking [here](https://github.com/joaogdcarvalho/nps-api).
 
@@ -42,10 +42,6 @@ For jobs, collaborations or simply keeping in touch:
 
 [en]: <https://github.com/joaogdcarvalho/joaogdcarvalho/blob/main/README.md>
 [pt-br]: <https://github.com/joaogdcarvalho/joaogdcarvalho/blob/main/README.pt-BR.md>
-
-[RocketSeat]: <https://github.com/Rocketseat>
-[Caelum]: <https://github.com/caelum>
-[Saga]: <https://saga.art.br/cursos>
 
 [site]: <>
 [instagram]: <>
