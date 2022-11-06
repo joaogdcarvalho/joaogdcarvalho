@@ -37,7 +37,7 @@ For jobs, collaborations or simply keeping in touch:
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://www.twitter.com/joaogdcarvalho)
 [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discordapp.com/users/383458204425650178)
 [<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />](https://gitlab.com/joaogdcarvalho)
-[<img src="https://img.shields.io/badge/google-FEC111?style=for-the-badge&logo=google&logoColor=black" />](https://g.dev/joaogdcarvalho)
+[<img src="https://img.shields.io/badge/google-F4B400?style=for-the-badge&logo=google&logoColor=black" />](https://g.dev/joaogdcarvalho)
 [<img src="https://img.shields.io/badge/mastodon-6262FD?style=for-the-badge&logo=Mastodon&logoColor=white" />](https://mastodon.social/@joaogdcarvalho)
 [<img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />](https://linktr.ee/joaogdcarvalho)
 
