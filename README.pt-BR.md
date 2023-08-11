@@ -2,7 +2,7 @@
 
 # Olá!
 
-Meu nome é João e atuo como Desenvolvedor há 5 anos, antes disso já fui Instrutor de Informática e confesso que já desliguei o roteador algumas vezes quando a turma não contribua com o bom andamento da aula, peço desculpas caso você tenha sido uma das pessoas inocentemente impactadas por essa ação 😄
+Meu nome é João e atuo como Desenvolvedor há 5 anos, antes disso já fui Instrutor de Informática e confesso que já desliguei o roteador algumas vezes quando a turma não contribua com o bom andamento da aula, peço desculpas caso você tenha sido uma das pessoas inocentemente impactadas por essa ação.
 
 Possuo experiência com projetos Back-end (<strong>.NET Framework, .NET Core, ASP.NET MVC, Microsoft SQL Server</strong>) e Front-end (<strong>HTML5, CSS3, JavaScript</strong>) e atualmente estou ~~quebrando a cabeça~~ aprendendo e criando soluções com <strong>TypeScript, React.js, React Native</strong> e <strong>Node.js</strong>
 
