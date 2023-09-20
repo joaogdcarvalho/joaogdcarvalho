@@ -6,7 +6,7 @@ Meu nome é João e atuo como Desenvolvedor há 5 anos, antes disso já fui Inst
 
 Possuo experiência com projetos Back-end (<strong>.NET Framework, .NET Core, ASP.NET MVC, Microsoft SQL Server</strong>) e Front-end (<strong>HTML5, CSS3, JavaScript</strong>) e atualmente estou ~~quebrando a cabeça~~ aprendendo e criando soluções com <strong>TypeScript, React.js, React Native</strong> e <strong>Node.js</strong>
 
-Sou formado em Análise e Desenvolvimento de Sistemas pela "Faculdade Impacta" em 2017 e tenho como objetivo contribuir com projetos de grande impacto e participar ativamente na criação e/ou melhoria de produtos inovadores.
+Após obter um diploma em Análise de Sistemas de Computador na "Faculdade Impacta" em 2017, estou atualmente cursando uma Pós-graduação em Arquitetura de Software. Meu objetivo é contribuir para projetos de alto impacto e participar ativamente na criação ou melhoria de produtos inovadores.
 
 Já concluí cursos oferecidos pela RocketSeat, Caelum e Saga.
 
